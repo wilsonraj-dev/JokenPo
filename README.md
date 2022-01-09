@@ -1,6 +1,6 @@
 # JokenPo
 
-## Esse é um pequeno projeto realizado utilizando a linguagem Dart e o Flutter. Se baseia basicamente nos fundamentos do conhecido jogo "JokenPo", para muitos, "Pedra, Papel, Tesoura". O usuário seleciona algumas das três opções, ao mesmo que o App também escolha a dele, sendo retornado na tela o resultado de quem foi o ganhador.
+## Esse é um pequeno projeto realizado utilizando a linguagem Dart e o Flutter. Se baseia basicamente nos fundamentos do conhecido jogo "JokenPo", para muitos, "Pedra, Papel, Tesoura". O usuário seleciona algumas das três opções, ao mesmo que o App também escolhe a dele, sendo retornado na tela o resultado de quem foi o ganhador.
 
 ### Segue abaixo algumas imagens do projeto, espero que gostem 😁
 
